@@ -4,5 +4,6 @@ Scripting
 Git
 AWS
 ec2
-#Linux is open source
+#Linux is open source and is a good OS
+
 
